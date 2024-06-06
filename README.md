@@ -1,1 +1,1 @@
-# trabajo_practico
+![Diagrama topológico](schema.jpeg)
